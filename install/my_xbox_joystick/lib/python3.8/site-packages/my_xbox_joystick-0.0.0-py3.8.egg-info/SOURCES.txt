@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/my_xbox_joystick/my_xbox_joystick.egg-info/PKG-INFO
+../../build/my_xbox_joystick/my_xbox_joystick.egg-info/SOURCES.txt
+../../build/my_xbox_joystick/my_xbox_joystick.egg-info/dependency_links.txt
+../../build/my_xbox_joystick/my_xbox_joystick.egg-info/entry_points.txt
+../../build/my_xbox_joystick/my_xbox_joystick.egg-info/requires.txt
+../../build/my_xbox_joystick/my_xbox_joystick.egg-info/top_level.txt
+../../build/my_xbox_joystick/my_xbox_joystick.egg-info/zip-safe
+my_xbox_joystick/__init__.py
+my_xbox_joystick/xbox_joystick_node.py
+resource/my_xbox_joystick
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

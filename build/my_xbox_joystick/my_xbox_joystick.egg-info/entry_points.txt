@@ -1,0 +1,3 @@
+[console_scripts]
+xbox_joystick = my_xbox_joystick.xbox_joystick_node:main
+

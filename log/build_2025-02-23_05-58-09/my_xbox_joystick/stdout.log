@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/my_xbox_joystick/my_xbox_joystick.egg-info
+writing ../../build/my_xbox_joystick/my_xbox_joystick.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_xbox_joystick/my_xbox_joystick.egg-info/dependency_links.txt
+writing entry points to ../../build/my_xbox_joystick/my_xbox_joystick.egg-info/entry_points.txt
+writing requirements to ../../build/my_xbox_joystick/my_xbox_joystick.egg-info/requires.txt
+writing top-level names to ../../build/my_xbox_joystick/my_xbox_joystick.egg-info/top_level.txt
+writing manifest file '../../build/my_xbox_joystick/my_xbox_joystick.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_xbox_joystick/my_xbox_joystick.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_xbox_joystick/my_xbox_joystick.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/y/controller_ws/build/my_xbox_joystick/build
+creating /home/y/controller_ws/build/my_xbox_joystick/build/lib
+creating /home/y/controller_ws/build/my_xbox_joystick/build/lib/my_xbox_joystick
+copying my_xbox_joystick/__init__.py -> /home/y/controller_ws/build/my_xbox_joystick/build/lib/my_xbox_joystick
+copying my_xbox_joystick/xbox_joystick_node.py -> /home/y/controller_ws/build/my_xbox_joystick/build/lib/my_xbox_joystick
+running install
+running install_lib
+creating /home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages/my_xbox_joystick
+copying /home/y/controller_ws/build/my_xbox_joystick/build/lib/my_xbox_joystick/__init__.py -> /home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages/my_xbox_joystick
+copying /home/y/controller_ws/build/my_xbox_joystick/build/lib/my_xbox_joystick/xbox_joystick_node.py -> /home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages/my_xbox_joystick
+byte-compiling /home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages/my_xbox_joystick/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages/my_xbox_joystick/xbox_joystick_node.py to xbox_joystick_node.cpython-38.pyc
+running install_data
+creating /home/y/controller_ws/install/my_xbox_joystick/share/ament_index
+creating /home/y/controller_ws/install/my_xbox_joystick/share/ament_index/resource_index
+creating /home/y/controller_ws/install/my_xbox_joystick/share/ament_index/resource_index/packages
+copying resource/my_xbox_joystick -> /home/y/controller_ws/install/my_xbox_joystick/share/ament_index/resource_index/packages
+copying package.xml -> /home/y/controller_ws/install/my_xbox_joystick/share/my_xbox_joystick
+running install_egg_info
+Copying ../../build/my_xbox_joystick/my_xbox_joystick.egg-info to /home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages/my_xbox_joystick-0.0.0-py3.8.egg-info
+running install_scripts
+Installing xbox_joystick script to /home/y/controller_ws/install/my_xbox_joystick/lib/my_xbox_joystick
+writing list of installed files to '/home/y/controller_ws/build/my_xbox_joystick/install.log'
