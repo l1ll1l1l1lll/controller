@@ -1,0 +1,35 @@
+[0.631s] Invoking command in '/home/y/controller_ws/src/launch_controller': PYTHONPATH=/home/y/controller_ws/build/launch_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/y/controller_ws/install/launch_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/launch_controller build --build-base /home/y/controller_ws/build/launch_controller/build install --record /home/y/controller_ws/build/launch_controller/install.log --install-scripts $base/lib/launch --single-version-externally-managed install_data
+[0.795s] running egg_info
+[0.795s] creating ../../build/launch_controller/launch_controller.egg-info
+[0.796s] writing ../../build/launch_controller/launch_controller.egg-info/PKG-INFO
+[0.796s] writing dependency_links to ../../build/launch_controller/launch_controller.egg-info/dependency_links.txt
+[0.797s] writing entry points to ../../build/launch_controller/launch_controller.egg-info/entry_points.txt
+[0.798s] writing requirements to ../../build/launch_controller/launch_controller.egg-info/requires.txt
+[0.798s] writing top-level names to ../../build/launch_controller/launch_controller.egg-info/top_level.txt
+[0.799s] writing manifest file '../../build/launch_controller/launch_controller.egg-info/SOURCES.txt'
+[0.827s] reading manifest file '../../build/launch_controller/launch_controller.egg-info/SOURCES.txt'
+[0.827s] writing manifest file '../../build/launch_controller/launch_controller.egg-info/SOURCES.txt'
+[0.828s] running build
+[0.828s] running build_py
+[0.828s] creating /home/y/controller_ws/build/launch_controller/build
+[0.829s] creating /home/y/controller_ws/build/launch_controller/build/lib
+[0.829s] creating /home/y/controller_ws/build/launch_controller/build/lib/launch_controller
+[0.829s] copying launch_controller/__init__.py -> /home/y/controller_ws/build/launch_controller/build/lib/launch_controller
+[0.829s] running install
+[0.830s] running install_lib
+[0.831s] creating /home/y/controller_ws/install/launch_controller/lib/python3.8/site-packages/launch_controller
+[0.831s] copying /home/y/controller_ws/build/launch_controller/build/lib/launch_controller/__init__.py -> /home/y/controller_ws/install/launch_controller/lib/python3.8/site-packages/launch_controller
+[0.831s] byte-compiling /home/y/controller_ws/install/launch_controller/lib/python3.8/site-packages/launch_controller/__init__.py to __init__.cpython-38.pyc
+[0.833s] running install_data
+[0.833s] copying package.xml -> /home/y/controller_ws/install/launch_controller/share/launch_controller
+[0.833s] creating /home/y/controller_ws/install/launch_controller/share/ament_index
+[0.833s] creating /home/y/controller_ws/install/launch_controller/share/ament_index/resource_index
+[0.834s] creating /home/y/controller_ws/install/launch_controller/share/ament_index/resource_index/packages
+[0.834s] copying resource/launch_controller -> /home/y/controller_ws/install/launch_controller/share/ament_index/resource_index/packages
+[0.834s] creating /home/y/controller_ws/install/launch_controller/share/launch_controller/launch
+[0.834s] copying launch/launch_controller.py -> /home/y/controller_ws/install/launch_controller/share/launch_controller/launch
+[0.835s] running install_egg_info
+[0.836s] Copying ../../build/launch_controller/launch_controller.egg-info to /home/y/controller_ws/install/launch_controller/lib/python3.8/site-packages/launch_controller-0.0.0-py3.8.egg-info
+[0.837s] running install_scripts
+[0.855s] writing list of installed files to '/home/y/controller_ws/build/launch_controller/install.log'
+[0.879s] Invoked command in '/home/y/controller_ws/src/launch_controller' returned '0': PYTHONPATH=/home/y/controller_ws/build/launch_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/y/controller_ws/install/launch_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/launch_controller build --build-base /home/y/controller_ws/build/launch_controller/build install --record /home/y/controller_ws/build/launch_controller/install.log --install-scripts $base/lib/launch --single-version-externally-managed install_data

@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/launch_controller/launch_controller.egg-info
+writing ../../build/launch_controller/launch_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/launch_controller/launch_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/launch_controller/launch_controller.egg-info/entry_points.txt
+writing requirements to ../../build/launch_controller/launch_controller.egg-info/requires.txt
+writing top-level names to ../../build/launch_controller/launch_controller.egg-info/top_level.txt
+writing manifest file '../../build/launch_controller/launch_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/launch_controller/launch_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/launch_controller/launch_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/y/controller_ws/build/launch_controller/build
+creating /home/y/controller_ws/build/launch_controller/build/lib
+creating /home/y/controller_ws/build/launch_controller/build/lib/launch_controller
+copying launch_controller/__init__.py -> /home/y/controller_ws/build/launch_controller/build/lib/launch_controller
+running install
+running install_lib
+creating /home/y/controller_ws/install/launch_controller/lib/python3.8/site-packages/launch_controller
+copying /home/y/controller_ws/build/launch_controller/build/lib/launch_controller/__init__.py -> /home/y/controller_ws/install/launch_controller/lib/python3.8/site-packages/launch_controller
+byte-compiling /home/y/controller_ws/install/launch_controller/lib/python3.8/site-packages/launch_controller/__init__.py to __init__.cpython-38.pyc
+running install_data
+copying package.xml -> /home/y/controller_ws/install/launch_controller/share/launch_controller
+creating /home/y/controller_ws/install/launch_controller/share/ament_index
+creating /home/y/controller_ws/install/launch_controller/share/ament_index/resource_index
+creating /home/y/controller_ws/install/launch_controller/share/ament_index/resource_index/packages
+copying resource/launch_controller -> /home/y/controller_ws/install/launch_controller/share/ament_index/resource_index/packages
+creating /home/y/controller_ws/install/launch_controller/share/launch_controller/launch
+copying launch/launch_controller.py -> /home/y/controller_ws/install/launch_controller/share/launch_controller/launch
+running install_egg_info
+Copying ../../build/launch_controller/launch_controller.egg-info to /home/y/controller_ws/install/launch_controller/lib/python3.8/site-packages/launch_controller-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/y/controller_ws/build/launch_controller/install.log'

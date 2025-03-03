@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: launch-controller
+Version: 0.0.0
+Summary: A package to demonstrate ROS 2 launch files
+Home-page: UNKNOWN
+Maintainer: your_name
+Maintainer-email: your_email@example.com
+License: Apache License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN

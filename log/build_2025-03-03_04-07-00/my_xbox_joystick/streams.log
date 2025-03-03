@@ -1,0 +1,37 @@
+[0.644s] Invoking command in '/home/y/controller_ws/src/my_xbox_joystick': PYTHONPATH=/home/y/controller_ws/build/my_xbox_joystick/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_xbox_joystick build --build-base /home/y/controller_ws/build/my_xbox_joystick/build install --record /home/y/controller_ws/build/my_xbox_joystick/install.log --install-scripts $base/lib/my_xbox_joystick --single-version-externally-managed install_data
+[0.799s] running egg_info
+[0.800s] creating ../../build/my_xbox_joystick/my_xbox_joystick.egg-info
+[0.800s] writing ../../build/my_xbox_joystick/my_xbox_joystick.egg-info/PKG-INFO
+[0.800s] writing dependency_links to ../../build/my_xbox_joystick/my_xbox_joystick.egg-info/dependency_links.txt
+[0.801s] writing entry points to ../../build/my_xbox_joystick/my_xbox_joystick.egg-info/entry_points.txt
+[0.801s] writing requirements to ../../build/my_xbox_joystick/my_xbox_joystick.egg-info/requires.txt
+[0.801s] writing top-level names to ../../build/my_xbox_joystick/my_xbox_joystick.egg-info/top_level.txt
+[0.802s] writing manifest file '../../build/my_xbox_joystick/my_xbox_joystick.egg-info/SOURCES.txt'
+[0.830s] reading manifest file '../../build/my_xbox_joystick/my_xbox_joystick.egg-info/SOURCES.txt'
+[0.831s] writing manifest file '../../build/my_xbox_joystick/my_xbox_joystick.egg-info/SOURCES.txt'
+[0.831s] running build
+[0.831s] running build_py
+[0.831s] creating /home/y/controller_ws/build/my_xbox_joystick/build
+[0.831s] creating /home/y/controller_ws/build/my_xbox_joystick/build/lib
+[0.832s] creating /home/y/controller_ws/build/my_xbox_joystick/build/lib/my_xbox_joystick
+[0.832s] copying my_xbox_joystick/__init__.py -> /home/y/controller_ws/build/my_xbox_joystick/build/lib/my_xbox_joystick
+[0.832s] copying my_xbox_joystick/xbox_joystick_node.py -> /home/y/controller_ws/build/my_xbox_joystick/build/lib/my_xbox_joystick
+[0.832s] running install
+[0.833s] running install_lib
+[0.833s] creating /home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages/my_xbox_joystick
+[0.834s] copying /home/y/controller_ws/build/my_xbox_joystick/build/lib/my_xbox_joystick/__init__.py -> /home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages/my_xbox_joystick
+[0.834s] copying /home/y/controller_ws/build/my_xbox_joystick/build/lib/my_xbox_joystick/xbox_joystick_node.py -> /home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages/my_xbox_joystick
+[0.834s] byte-compiling /home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages/my_xbox_joystick/__init__.py to __init__.cpython-38.pyc
+[0.835s] byte-compiling /home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages/my_xbox_joystick/xbox_joystick_node.py to xbox_joystick_node.cpython-38.pyc
+[0.836s] running install_data
+[0.836s] creating /home/y/controller_ws/install/my_xbox_joystick/share/ament_index
+[0.836s] creating /home/y/controller_ws/install/my_xbox_joystick/share/ament_index/resource_index
+[0.837s] creating /home/y/controller_ws/install/my_xbox_joystick/share/ament_index/resource_index/packages
+[0.837s] copying resource/my_xbox_joystick -> /home/y/controller_ws/install/my_xbox_joystick/share/ament_index/resource_index/packages
+[0.837s] copying package.xml -> /home/y/controller_ws/install/my_xbox_joystick/share/my_xbox_joystick
+[0.837s] running install_egg_info
+[0.839s] Copying ../../build/my_xbox_joystick/my_xbox_joystick.egg-info to /home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages/my_xbox_joystick-0.0.0-py3.8.egg-info
+[0.840s] running install_scripts
+[0.852s] Installing xbox_joystick script to /home/y/controller_ws/install/my_xbox_joystick/lib/my_xbox_joystick
+[0.852s] writing list of installed files to '/home/y/controller_ws/build/my_xbox_joystick/install.log'
+[0.876s] Invoked command in '/home/y/controller_ws/src/my_xbox_joystick' returned '0': PYTHONPATH=/home/y/controller_ws/build/my_xbox_joystick/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/y/controller_ws/install/my_xbox_joystick/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_xbox_joystick build --build-base /home/y/controller_ws/build/my_xbox_joystick/build install --record /home/y/controller_ws/build/my_xbox_joystick/install.log --install-scripts $base/lib/my_xbox_joystick --single-version-externally-managed install_data
